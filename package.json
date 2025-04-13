@@ -1,0 +1,21 @@
+{
+  "name": "learn-nextjs14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "next": "^15.2.4",
+    "react-dom": "^19.1.0",
+    "reat": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.0",
+    "@types/react": "^19.1.0"
+  }
+}
